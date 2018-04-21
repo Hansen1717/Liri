@@ -1,0 +1,28 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Liri application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hansen1717/Liri.git"
+  },
+  "author": "Bryan Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hansen1717/Liri/issues"
+  },
+  "homepage": "https://github.com/Hansen1717/Liri#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.85.0",
+    "sys": "0.0.1",
+    "twitter": "^1.7.1",
+    "util": "^0.10.3"
+  }
+}
